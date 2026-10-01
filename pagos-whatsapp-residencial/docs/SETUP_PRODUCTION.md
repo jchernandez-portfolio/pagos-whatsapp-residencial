@@ -72,7 +72,7 @@ El número que envía el comprobante se utiliza para responder y para correlacio
 
 Crear un proyecto con:
 
-- repositorio: `Jchernand3z19/Portafolio`;
+- repositorio: `jchernandez-portfolio/pagos-whatsapp-residencial`;
 - Root Directory: `pagos-whatsapp-residencial`;
 - framework: Next.js;
 - Node.js 22.
